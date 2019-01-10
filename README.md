@@ -18,6 +18,8 @@ The game is still in it's basic form. It's also poorly designed since i didn't k
 
 This game was a way for me to implement what i learned in the very beginning of my Object Oriented Programming journey, excluding any code design of course (since i didn't have that knowledge yet).
 
+Make sure to check out the rest of the game files: https://1drv.ms/f/s!AqV736O9akOdg58HhFZXkG9mVaMLFA .These files are essential for the game to work as it should.
+
 # Game Sprites: 
 
 Pokemon Yellow (GameBoy Color) Ash Ketchum,The enemy(was the last member of the elite 4 in the pokemon game). 
